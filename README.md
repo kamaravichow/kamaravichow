@@ -15,11 +15,6 @@ languages = ["java", "kotlin", "python", "HTML", "CSS", "JavaScript"]
 
 ```
 
-### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"> Projects that I worked on
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://kamaravichow.github.io)
