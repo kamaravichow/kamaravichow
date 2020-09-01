@@ -4,12 +4,19 @@
 [![Twitter: kamaravichow](https://img.shields.io/twitter/follow/kamaravichow?style=social)](https://twitter.com/kamaravichow)
 [![GitHub kamaravichow](https://img.shields.io/github/followers/kamaravichow?label=follow&style=social)](https://github.com/kamaravichow)
 
-```python
-import myskills from skills
+```cpp
+#include "stdafx.h"
+#include <string>
+#include <iostream>
 
-languages = ["java", "kotlin", "python", "HTML", "CSS", "JavaScript"]
-# More to be added
+using namespace std;
 
+int _tmain(int argc, _TCHAR* argv[])
+{
+    string strMytestString("hello world");
+    cout << strMytestString;
+    return 0;
+}
 ```
 
 ---
