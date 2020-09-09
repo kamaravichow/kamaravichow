@@ -4,19 +4,8 @@
 [![Twitter: kamaravichow](https://img.shields.io/twitter/follow/kamaravichow?style=social)](https://twitter.com/kamaravichow)
 [![GitHub kamaravichow](https://img.shields.io/github/followers/kamaravichow?label=follow&style=social)](https://github.com/kamaravichow)
 
-```cpp
-#include "stdafx.h"
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-int _tmain(int argc, _TCHAR* argv[])
-{
-    string strMytestString("hello world");
-    cout << strMytestString;
-    return 0;
-}
+```c#
+Debug.Log("HELLO WORLD);
 ```
 
 ---
