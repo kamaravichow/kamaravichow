@@ -4,8 +4,8 @@
 [![Twitter: kamaravichow](https://img.shields.io/twitter/follow/kamaravichow?style=social)](https://twitter.com/kamaravichow)
 [![GitHub kamaravichow](https://img.shields.io/github/followers/kamaravichow?label=follow&style=social)](https://github.com/kamaravichow)
 
-```c#
-Debug.Log("HELLO WORLD);
+```java
+Log.i("Hello World");
 ```
 
 ---
