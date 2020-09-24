@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aravind Chowdary! </h2>
-I'm an Electronics and Communication Engineering student, specializing in developing high quality Android and Machine Learning Models.
+I'm an electronics and communication engineering student, specializing in developing android apps for fun and messing around with machine learning models & neural networks.
 
 
 ### Languages and Tools:
