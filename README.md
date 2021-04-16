@@ -10,7 +10,7 @@ A carbon based creation curious on how things work & always wanting to learn new
 
 #### Notable works
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=safe-dot-android)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=safe-dot-android)](https://github.com/kamaravichow/safe-dot-android)
 
 
 
