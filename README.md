@@ -13,13 +13,7 @@ A carbon based creation curious on how things work & always wanting to learn new
 
 #### Notable works
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=safe-dot-android)](https://github.com/kamaravichow/safe-dot-android)
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=multi-select-grid-view-flutter)](https://github.com/kamaravichow/multi-select-grid-view-flutter)
-
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=safe-dot-android)](https://github.com/kamaravichow/safe-dot-android) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=youtubly-android)](https://github.com/kamaravichow/youtubly-android)
 
 
 <img src="https://komarev.com/ghpvc/?username=kamaravichow&color=blue&style=flat-square" align="right" />
-
-
-
