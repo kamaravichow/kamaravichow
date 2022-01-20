@@ -13,7 +13,7 @@ A carbon based creation curious on how things work & always wanting to learn new
 
 #### Notable works
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=safe-dot-android)](https://github.com/kamaravichow/safe-dot-android) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=hrv-stress-detection-model)](https://github.com/kamaravichow/hrv-stress-detection-model)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=safe-dot-android)](https://github.com/kamaravichow/safe-dot-android) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kamaravichow&repo=hrv-stress-prediction-model)](https://github.com/kamaravichow/hrv-stress-prediction-model)
 
 
 <img src="https://komarev.com/ghpvc/?username=kamaravichow&color=blue&style=flat-square" align="right" />
