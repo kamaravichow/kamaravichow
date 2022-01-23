@@ -2,7 +2,7 @@
 
 A carbon based creation curious on how things work & always wanting to learn new technologies.
 
-[![Twitter](https://img.shields.io/badge/Twitter-kamaravichow-blue/?style=for-the-badge&logo=appveyor)](https://www.twitter.com/heytrulyaravind)
+[![Twitter](https://img.shields.io/badge/Twitter-heytrulyaravind-blue/?style=for-the-badge&logo=appveyor)](https://www.twitter.com/heytrulyaravind)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kamaravichow-blue/?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/kamaravichow/)
 
 ---
