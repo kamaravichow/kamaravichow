@@ -8,7 +8,7 @@
 
 
 **Talk to me ?**
-* Email - talkto@aravi.me
-* Linkedin - https://www.linkedin.com/in/kamaravichow
-* Website- https://www.aravi.me
+* Email - [talkto@aravi.me](mailto:talkto@aravi.me)
+* Linkedin - [https://www.linkedin.com/in/kamaravichow](https://www.linkedin.com/in/kamaravichow/?ref=github)
+* Website- [https://www.aravi.me](https://www.aravi.me/?ref=github)
  
