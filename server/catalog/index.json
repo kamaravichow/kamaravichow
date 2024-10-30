@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "title": "Linear Regression",
+      "slug": "/concepts/linear-regression",
+      "image": "",
+      "description": "Linear Regression is a supervised learning algorithm that is used to predict a continuous outcome variable based on one or more input variables.",
+      "updated": "2023-09-10",
+      "created": "2023-09-10",
+      "tags": ["machine-learning", "regression"]
+    }
+  ]
+}
