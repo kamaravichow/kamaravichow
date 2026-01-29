@@ -1,6 +1,6 @@
 **𝙃𝙚𝙡𝙡𝙤 👋🏻, 𝙄'𝙢 Aravind Chowdary**
 
-> Founder at [everoasistech.com](https://everoasistech.com) & been developing native android, iOS apps for 4+ years and publishing a few good ones to the appstores.
+> been developing native android, iOS apps for 4+ years and publishing a few good ones to the appstores.
 > Currently enjoying the vibes
 
 ### Projects
