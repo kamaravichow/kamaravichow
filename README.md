@@ -6,7 +6,7 @@
 ### Projects
 
 - 💰 [**Finance Agent**](https://github.com/kamaravichow/finance-agent) - ai-powered investment analyst agent specialized in indian stock market analysis.
-- 
+  
 - 📈 [**StockScreener**](https://github.com/kamaravichow/stock-screener) - tool to make stock screens with minimal interface
 
 - 🍌 [**MagicBanana**](https://github.com/kamaravichow/magic-banana.git) - a natural language image editor.
