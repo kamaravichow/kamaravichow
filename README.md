@@ -17,5 +17,5 @@
 
 - 🔒 [**Safedot**](https://github.com/kamaravichow/safe-dot-android) - android app that introduced privacy dots to android before google did it.
   
-- 🗄️ [**s3hero**](https://github.com/kamaravichow/s3hero.git) - friendly command-line tool for managing your files in the cloud.
+- 🗄️ [**s3hero**](https://github.com/kamaravichow/s3hero.git) - friendly command-line tool for managing your files in AWS S3 buckets.
 
