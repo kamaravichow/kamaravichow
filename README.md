@@ -11,7 +11,7 @@
 
 - 🍌 [**MagicBanana**](https://github.com/kamaravichow/magic-banana.git) - a natural language image editor.
   
-- 🤖 [**SAAR**](https://github.com/kamaravichow/SARR.git) - its an AI that responds to reviews on appstore for your apps
+- 🤖 [**SARR**](https://github.com/kamaravichow/SARR.git) - its an AI that responds to reviews on appstore for your apps
 
 - 💬 [**TalkSecure**](https://github.com/kamaravichow/talksecure-e2e-messenger) - end to end encrypted messenger based on signal protocol
 
