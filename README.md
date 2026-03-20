@@ -4,6 +4,7 @@
 > Currently enjoying the vibes
 
 ### Projects
+- 🛢 [**Postbase**](https://github.com/kamaravichow/postbase.git) - a UI for mongodb that is similar to firebase firestore.
 
 - 💰 [**Finance Agent**](https://github.com/kamaravichow/finance-agent) - ai-powered investment analyst agent specialized in indian stock market analysis.
   
