@@ -1,22 +1,12 @@
-**𝙃𝙚𝙡𝙡𝙤 👋🏻, 𝙄'𝙢 Aravind Chowdary**
+### Hello 👋, I'm Aravind Chowdary
 
-> been developing native android, iOS apps for 4+ years and publishing a few good ones to the appstores.
-> Currently enjoying the vibes
+> been developing native android, iOS apps for 4+ years and publishing a few good ones to the appstores. Currently enjoying the vibes
 
-### Projects
-- 🛢 [**Postbase**](https://github.com/kamaravichow/postbase.git) - a UI for mongodb that is similar to firebase firestore.
+## Projects
 
-- 💰 [**Finance Agent**](https://github.com/kamaravichow/finance-agent) - ai-powered investment analyst agent specialized in indian stock market analysis.
-  
-- 📈 [**StockScreener**](https://github.com/kamaravichow/stock-screener) - tool to make stock screens with minimal interface
-
-- 🍌 [**MagicBanana**](https://github.com/kamaravichow/magic-banana.git) - a natural language image editor.
-  
-- 🤖 [**SARR**](https://github.com/kamaravichow/SARR.git) - its an AI that responds to reviews on appstore for your apps
-
-- 💬 [**TalkSecure**](https://github.com/kamaravichow/talksecure-e2e-messenger) - end to end encrypted messenger based on signal protocol
-
-- 🔒 [**Safedot**](https://github.com/kamaravichow/safe-dot-android) - android app that introduced privacy dots to android before google did it.
-  
-- 🗄️ [**s3hero**](https://github.com/kamaravichow/s3hero.git) - friendly command-line tool for managing your files in AWS S3 buckets.
-
+- 🔒 [safe-dot-android](https://github.com/kamaravichow/safe-dot-android) - android app that introduced privacy dots to android before google did it.
+- 🤖 [SARR](https://github.com/kamaravichow/SARR) - its an AI that responds to reviews on appstore for your apps
+- 📱 [Prodroid](https://github.com/kamaravichow/Prodroid) - macos app for talking to android phones over USB: MTP for storage and the usual ADB workflow when you need it.
+- 🧠 [supercontext](https://github.com/kamaravichow/supercontext) - converts any local project folder or git repository into an LLM-friendly context
+- 💬 [talksecure-e2e-messenger](https://github.com/kamaravichow/talksecure-e2e-messenger) - end to end encrypted chat messenger concept
+- 🗄️ [db-maverick](https://github.com/kamaravichow/db-maverick) - a modern, intuitive postgresql database manager for developers
