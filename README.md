@@ -1,6 +1,5 @@
 ### Hello 👋, I'm Aravind Chowdary
 
-> been developing native android, iOS apps for 4+ years and publishing a few good ones to the appstores. Currently enjoying the vibes
 
 ## Projects
 
